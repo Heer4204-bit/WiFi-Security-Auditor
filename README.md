@@ -31,15 +31,25 @@ The project is intended only for defensive security, cybersecurity learning, and
 📚 Educational cybersecurity recommendations
 
 # 🧠 Security Analysis
+
 •The auditor evaluates:
+
 •Encryption strength
+
 •Open networks
+
 •Legacy WEP usage
+
 •WPA/WPA2/WPA3 support
+
 •Signal quality
+
 •Channel congestion
+
 •Frequency band
+
 •Hidden SSID detection (when supported by the platform)
+
 •Overall security rating
 
 # 🛠️ Tech Stack
