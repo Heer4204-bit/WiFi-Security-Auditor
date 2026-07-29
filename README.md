@@ -82,7 +82,6 @@ The project is intended only for defensive security, cybersecurity learning, and
 
 Wi-Fi-Security-Auditor/
 
-│
 ├── app.py
 
 ├── scanner.py
