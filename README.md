@@ -9,15 +9,25 @@ The project is intended only for defensive security, cybersecurity learning, and
 # Key Features
 
 📡 Scan nearby Wi-Fi networks
+
 🔒 Detect encryption protocols (Open, WEP, WPA, WPA2, WPA3)
+
 📶 Display signal strength (RSSI)
+
 📻 Show Wi-Fi channel and frequency (2.4 GHz / 5 GHz / 6 GHz)
+
 ⚠️ Identify weak or outdated security configurations
+
 🛡️ Generate a Wi-Fi Security Score
+
 📊 Interactive dashboard with charts and tables
+
 📄 Export scan reports (PDF/CSV)
+
 🌙 Dark Mode UI
+
 💻 Cross-platform support (Windows/Linux)
+
 📚 Educational cybersecurity recommendations
 
 # 🧠 Security Analysis
