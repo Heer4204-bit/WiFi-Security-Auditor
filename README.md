@@ -43,12 +43,19 @@ The project is intended only for defensive security, cybersecurity learning, and
 - NumPy
 
 # 📊 Dashboard Includes
+
 📡 Nearby Wi-Fi Networks
+
 🔒 Security Type Distribution
+
 📶 Signal Strength Meter
+
 📈 Network Statistics
+
 🛡️ Security Risk Analysis
+
 ⚠️ Vulnerability Summary
+
 💡 Security Improvement Suggestions
 
 # 📁 Possible Project Structure
@@ -66,12 +73,19 @@ Wi-Fi-Security-Auditor/
 └── screenshots/
 
 # 🎓 Ideal For
+
 👉🏻 B.Tech IT/CSE Students
+
 👉🏻 Cybersecurity Beginners
+
 👉🏻 Network Security Learners
+
 👉🏻 Python Developers
+
 👉🏻 Portfolio & GitHub Projects
+
 👉🏻 Final Year Mini Projects
+
 👉🏻 Resume & Placement Showcase
 
 # ⚠️ Disclaimer
