@@ -79,17 +79,28 @@ The project is intended only for defensive security, cybersecurity learning, and
 💡 Security Improvement Suggestions
 
 # 📁 Possible Project Structure
+
 Wi-Fi-Security-Auditor/
+
 │
 ├── app.py
+
 ├── scanner.py
+
 ├── analyzer.py
+
 ├── report_generator.py
+
 ├── utils.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── assets/
+
 ├── reports/
+
 └── screenshots/
 
 # 🎓 Ideal For
